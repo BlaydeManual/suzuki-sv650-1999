@@ -18008,7 +18008,7 @@
     }
   ],
   "vehicle_class": "motorcycle",
-  "edition_id": "OEM",
+  "edition_id": "oem",
   "source_markers": {
     "source_identifier": "https://data2.manualslib.com/cpdf/23/111/11018/b0790d.pdf?take=binary"
   }
