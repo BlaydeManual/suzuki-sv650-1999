@@ -10918,23 +10918,6 @@
       "_seen": false
     },
     {
-      "procedure_id": "p176_proc2_fig1",
-      "page": 176,
-      "section_heading": "Page 176, procedure 2",
-      "pixel_bbox": [
-        205,
-        624,
-        502,
-        988
-      ],
-      "source_layout": "flattened_scan_ocr",
-      "content_type": "photo",
-      "contributed_photo_path": "images/suzuki-sv650-1999/p176_proc2_fig1/",
-      "status": "needs_contributed_photo",
-      "_touched": false,
-      "_seen": false
-    },
-    {
       "procedure_id": "p176_proc2_fig2",
       "page": 176,
       "section_heading": "Page 176, procedure 2",
