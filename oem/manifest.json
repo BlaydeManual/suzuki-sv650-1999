@@ -17988,6 +17988,20 @@
       "status": "needs_contributed_photo",
       "_touched": false,
       "_seen": false
+    },
+    {
+      "procedure_id": "p177_issueadd1788988613817",
+      "page": 177,
+      "section_heading": "New photo slot",
+      "pixel_bbox": [
+        1106,
+        1813,
+        1623,
+        2187
+      ],
+      "content_type": "photo",
+      "source_layout": "contributor_added",
+      "status": "needs_contributed_photo"
     }
   ],
   "vehicle_class": "motorcycle",
