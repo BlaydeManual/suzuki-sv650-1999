@@ -11107,7 +11107,36 @@
       "contributed_photo_path": "images/suzuki-sv650-1999/p176_proc3_fig1/",
       "status": "needs_contributed_photo",
       "_touched": false,
-      "_seen": false
+      "_seen": false,
+      "annotations": [
+        {
+          "id": "a1789792164455752",
+          "type": "circle",
+          "cx": 73.6009100338191,
+          "cy": 60.141404707758554,
+          "r": 8.587603328205057,
+          "annotatedBy": "hypnolope"
+        },
+        {
+          "id": "a1789792169223851",
+          "type": "line",
+          "x0": 64.20667433219306,
+          "y0": 66.49402974758551,
+          "x1": 52.63163391411811,
+          "y1": 78.09447547248693,
+          "annotatedBy": "hypnolope"
+        },
+        {
+          "id": "a1789792173333631",
+          "type": "text",
+          "frame": "circle",
+          "cx": 45.75371134685619,
+          "cy": 83.61849724624952,
+          "r": 6.550925064086914,
+          "content": "C",
+          "annotatedBy": "hypnolope"
+        }
+      ]
     },
     {
       "procedure_id": "p177_proc1_fig1",
